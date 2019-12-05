@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="928" viewBox="0 0 1920 928">
+  <g id="hero-bg" transform="translate(0 0)">
+    <path id="Path_1654" data-name="Path 1654" d="M0,0H1920V928H0Z" fill="#0e92dd"/>
+    <path id="Intersection_9" data-name="Intersection 9" d="M-1429.308,928V273.238l42.157-43.655c122.385-126.732,324.333-130.257,451.066-7.873s130.258,324.333,7.873,451.066L-1174.68,928Z" transform="translate(1429.308)" fill="#41bbff"/>
+    <path id="Intersection_10" data-name="Intersection 10" d="M-747.22,854.474C-841.574,763.358-844.2,613-753.082,518.65l340.814-352.922H-150v412.2L-411.4,848.613a236.823,236.823,0,0,1-170.869,72.519A236.688,236.688,0,0,1-747.22,854.474Z" transform="translate(2070 -165.728)" fill="#41bbff"/>
+  </g>
+</svg>
